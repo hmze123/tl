@@ -1,0 +1,27 @@
+[
+  {
+    "categoryName": "الأخبار",
+    "channels": [
+      {
+        "name": "Al Jazeera English",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
+        "streamUrl": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+      },
+      {
+        "name": "France 24 English",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/France_24_logo.svg/512px-France_24_logo.svg.png",
+        "streamUrl": "https://f24hls-i.akamaihd.net/hls/live/2000343/F24_EN_LO_HLS/master.m3u8"
+      }
+    ]
+  },
+  {
+    "categoryName": "محتوى حر",
+    "channels": [
+      {
+        "name": "Big Buck Bunny",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/512px-Big_buck_bunny_poster_big.jpg",
+        "streamUrl": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8"
+      }
+    ]
+  }
+]
